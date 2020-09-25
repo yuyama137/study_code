@@ -3,6 +3,8 @@
 *.DS_Store
 .AppleDouble
 .LSOverride
+.vscode
+.ipynb_checkpoints
 
 # Icon must end with two \r
 Icon
